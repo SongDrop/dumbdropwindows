@@ -2,6 +2,8 @@
 
 **DumbDrop** on Windows, providing a seamless, secure, and ready-to-use file upload server.
 
+![DumbDrop](https://github.com/user-attachments/assets/1b909d26-9ead-4dc7-85bc-8bfda0d366c1)
+
 ## Features
 
 - **Automatic DumbDrop installation** with all dependencies
