@@ -21,7 +21,7 @@
    - Configure HTTPS certificates (self-signed by default)
    - Open the specified port in Windows Firewall
    - Register DumbDrop as a Windows service to start on boot
-3. Once complete, DumbDrop will be accessible via your **PUBLIC_IP:3475**
+3. Once complete, DumbDrop will be accessible via your **https://PUBLIC_IP:3475**
 
 ## Usage
 
