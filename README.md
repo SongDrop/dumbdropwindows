@@ -30,3 +30,4 @@ This application is ideal for remote cloud-based Windows setups, allowing seamle
 > **Important:** Only share your public IP address with people you trust to keep your uploads secure.
 
 ---
+[![Download DumbDrop Windows](https://img.shields.io/badge/Download-DumbDrop%20Windows-blue?style=for-the-badge&logo=windows)](https://github.com/SongDrop/dumbdropwindows/releases/tag/windows)
